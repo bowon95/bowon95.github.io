@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "생각하는 개발자를 위해"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Since 2022. 03. 04
 name                     : "Bowon95"
-description              : "An amazing website."
+description              : "게임 개발자가 되기 위한 소중한 기록들."
 url                      : "https://bowon95.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
